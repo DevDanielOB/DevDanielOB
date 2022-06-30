@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Estudante apaixonado por desenvolvimento<br>JavaScript | Node.Js | HTML | CSS
+Estudante apaixonado por desenvolvimento.<br>JavaScript | Node.Js | HTML | CSS
 
 
 ## 🌐 Socials:
@@ -18,9 +18,6 @@ Estudante apaixonado por desenvolvimento<br>JavaScript | Node.Js | HTML | CSS
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DevDanielOB&icon=6&color=6)](https://visitcount.itsvg.in)
