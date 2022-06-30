@@ -1,6 +1,6 @@
 
 # 💫 Sobre Mim:
-Estudante apaixonado por desenvolvimento.<br>JavaScript | Node.Js | HTML | CSS
+Estudante apaixonado por desenvolvimento.<br>JavaScript | Node.Js | HTML | CSS<br>🎓 Graduado em Engenharia Civil<br>💻 Formação FullStack pela Ímã Learning Place
 
 
 ## 🌐 Redes Sociais:
