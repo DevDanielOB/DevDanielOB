@@ -1,9 +1,9 @@
 
-# 💫 About Me:
+# 💫 Sobre Mim:
 Estudante apaixonado por desenvolvimento.<br>JavaScript | Node.Js | HTML | CSS
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.com/channels/@me) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/engdaniel_olba) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/daniel-oliveira-batista) 
 
 # 💻 Tech Stack:
@@ -13,10 +13,10 @@ Estudante apaixonado por desenvolvimento.<br>JavaScript | Node.Js | HTML | CSS
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DevDanielOB&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDanielOB&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 Troféus do Github
 ![](https://github-profile-trophy.vercel.app/?username=DevDanielOB&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Citação Cleatória
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
