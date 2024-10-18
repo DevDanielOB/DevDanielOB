@@ -1,6 +1,6 @@
 
 # 💫 Sobre Mim:
-Estudante apaixonado por desenvolvimento.<br>JavaScript | Node.Js | HTML | React.JS | CSS<br>🎓 Graduado em Engenharia Civil<br>💻 Formação FullStack pela Ímã Learning Place<br>📚 <br>😀 25 Anos
+Desenvolverdor Pleno FullStack<br>JavaScript | Node.Js | HTML | React.JS | CSS<br>🎓 Graduado em Engenharia Civil<br>💻 Formação FullStack pela Ímã Learning Place<br>📚 <br>😀 26 Anos
 
 
 ## 🌐 Redes Sociais:
