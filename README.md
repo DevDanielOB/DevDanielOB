@@ -1,7 +1,4 @@
-
-# 💫 Sobre Mim:
-Desenvolverdor Pleno FullStack<br>JavaScript | Node.Js | HTML | React.JS | CSS<br>🎓 Graduado em Engenharia Civil<br>💻 Formação FullStack pela Ímã Learning Place<br>📚 <br>😀 26 Anos
-
+Software engineer| Backend developer 
 
 ## 🌐 Redes Sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.com/channels/@me) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/engdaniel_olba) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-oliveira-batista/) 
